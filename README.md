@@ -117,7 +117,7 @@ Until then, grab the latest release from the [Releases page](https://github.com/
 
 - 🐛 Found a bug? [Open an issue](https://github.com/talaurlove/draftguard/issues)
 - 💡 Feature idea? [Start a discussion](https://github.com/talaurlove/draftguard/discussions)
-- 📧 Business inquiries: **talaurlove@gmail.com**
+- 📧 Business inquiries: **your-email@example.com**
 
 ---
 
