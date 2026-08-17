@@ -83,7 +83,6 @@ DraftGuard is built on one rule: **your words never leave your device.**
 
 **Chrome Web Store** — *coming soon!* Hit ⭐ **Watch** on this repo to get notified.
 
-Until then, grab the latest release from the [Releases page](https://github.com/talaurlove/draftguard/releases) and load it via `chrome://extensions` → Developer mode → *Load unpacked*.
 
 ---
 
